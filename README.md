@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a chat app**
  
- 💬 Ask me about **JavaScript, TypeScript, React, Next.js ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **JavaScript, TypeScript, React, Next.js ... or anything [here](https://github.com/nargiz92/nargiz92/issues)**
 
  🌱 I’m currently learning **Vue, React Native Expo**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,sass,ts,mui,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,express,vercel,vite" /><br>
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nargiz92/nargiz92/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
