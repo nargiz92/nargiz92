@@ -14,7 +14,7 @@
  
  💬 Ask me about **JavaScript, TypeScript, React, Next.js ... or anything [here](https://github.com/nargiz92/nargiz92/issues)**
 
- 🌱 I’m currently learning **Vue, React Native Expo**
+ 🌱 I’m currently learning ** React Native Expo**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
