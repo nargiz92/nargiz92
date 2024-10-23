@@ -14,8 +14,6 @@
  
  💬 Ask me about **JavaScript, TypeScript, React, Next.js ... or anything [here](https://github.com/nargiz92/nargiz92/issues)**
 
- 🌱 I’m currently learning ** React Native Expo**
-
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
@@ -24,9 +22,7 @@
   <a href="mailto:pedro.ada.tagaeva.92@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/nargiz-tagaeva-1979811a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  
   <a href="https://nargiz92.github.io/portfolio-master/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
